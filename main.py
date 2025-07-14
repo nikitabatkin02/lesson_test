@@ -24,7 +24,7 @@ def guess_the_number():
         except ValueError:
             print("Некорректный ввод. Пожалуйста, введите целое число.")
         except Exception as e:
-            print(f"Произошла непр2345678едвиденная ошибка: {e}")
+            print(f"Произошла непр234567едвиденная ошибка: {e}")
 
 
 if __name__ == "__main__":
